@@ -1,0 +1,72 @@
+*{
+  margin-top: 0%;
+}
+/* #paragraphe{
+ display:flex;
+justify-content:center;
+
+} */
+
+.liste-cv{
+  height: 500px;
+}
+.app-text{
+  height: 700px;
+}
+app-liste-cv{
+  margin-top:150px;
+}
+*{
+  padding:0;
+  margin:0;
+  text-decoration: none;
+  list-style:border-box;
+  box-sizing: border-box;
+}
+.navTop{
+
+
+    padding: 8px 0px;
+    z-index: 1100;
+    position: relative;
+    background-color: #003668;
+}
+
+.navTop p{
+  display: inline-block;
+  font-size: 1rem;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 1.625rem;
+}
+.navTop a {
+  float: right;
+  margin-right: 2%;
+  display: inherit;
+  align-items: inherit;
+  justify-content: inherit;
+  background-color:#003668;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: large;
+}
+.navTop a:hover{
+  float: right;
+  margin-right: 2%;
+}
+.text-important{
+  color: rgba(0, 0, 0, 0.92);
+  font-size: 2.5rem;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 3.125rem;
+  letter-spacing: 0;
+  background-color: blue fixed;
+  text-transform: uppercase;
+}
+@import '~@fortawesome/fontawesome-free/scss/fontawesome.scss';
+@import '~@fortawesome/fontawesome-free/scss/solid.scss';
+@import '~@fortawesome/fontawesome-free/scss/regular.scss';
+@import '~@fortawesome/fontawesome-free/scss/brands.scss';
+
+@import '~mdb-angular-ui-kit/assets/scss/mdb.scss';
+

@@ -1,0 +1,37 @@
+
+*
+{
+  background-color: #7451eb;
+  margin-top: 0;
+}
+.big-text{
+  display: flex;
+  align-items: center;
+  justify-items: center;
+
+}
+.text-important{
+  margin-top: 90px;
+
+}
+.text-important:hover{
+  text-decoration: underline 5px solid ;
+
+}
+
+h4{
+ margin-top: 50px;
+ margin-right: 150px;
+}
+.imageCV{
+  width: auto;
+
+}
+
+/* responsive image petite
+  */
+
+@media screen and (max-width: 1024px)
+{
+  
+}

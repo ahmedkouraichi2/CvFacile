@@ -1,0 +1,19 @@
+*{background-color:  #7451eb;
+  margin-top: 0%;
+}
+.noir{
+  font-family: 'Cairo', sans-serif;
+  color: black;
+}
+.navnav{
+  margin-left: 100px;
+}
+
+li{
+  list-style: none;
+}
+.nav-item a:hover{
+  background-color: white;
+  color: black;
+
+}

@@ -1,0 +1,38 @@
+
+*
+{
+  background-color: #7451eb;
+  margin-top: 0;
+}
+.big-text{
+  display: flex;
+  align-items: center;
+  justify-items: center;
+
+}
+.text-important{
+  margin-top: 90px;
+
+}
+
+h4{
+ margin-top: 50px;
+ margin-right: 150px;
+}
+.imageCV{
+  width: auto;
+
+}
+.central-navlist{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+
+}
+.blanche{
+  background-color: white;
+ margin-top: 50px;
+}
+
+

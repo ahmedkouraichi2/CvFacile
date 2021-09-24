@@ -1,0 +1,47 @@
+.row-titre
+{
+ background-color: blue;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+.text-titre{
+  text-align:center;
+}
+.background-image{
+  height: 30px;
+  width: 150px;
+  color: red;
+}
+h3{
+  margin-left: 50px;
+  margin-bottom: 30px;
+}
+.zoom:hover {
+  transform: scale(1.01);
+}
+ul li {
+  list-style: none;
+  margin-top: 12px;
+  font-size: 20px;
+}
+
+.icon1 {
+  margin-right:14px;
+}
+.icon1:hover{
+ color: black;
+}
+@media screen and (max-width: 1024px)
+{
+   ul li {
+    margin-top:auto;
+
+
+   }
+.col-zoom{
+  width: 30px;
+
+}
+
+}

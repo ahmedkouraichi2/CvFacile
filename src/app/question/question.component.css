@@ -1,0 +1,27 @@
+.blok
+{
+  margin-left: 5%;
+  display: block;
+}
+h6{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 1.5rem;
+  color: #7451eb;
+
+}
+p{
+  text-align: justify;
+  margin-right: 5%;
+}
+.blocTotal{
+  display: flex;
+}
+
+@media screen and (max-width: 1024px)
+{
+
+  .blocTotal{
+    display: block;
+  }
+
+}
